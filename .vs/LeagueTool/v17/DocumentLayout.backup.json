@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Chill4Share\\LeagueTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\resettab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\resettab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\resettab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\resettab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\resettab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\resettab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\hometab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\hometab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\hometab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\hometab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\tabs\\hometab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\tabs\\hometab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|e:\\github\\chill4share\\leaguetool\\leaguetool\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB92A973-5AF1-45B9-B3C5-715ACB44CCF6}|LeagueTool\\LeagueTool.csproj|solutionrelative:leaguetool\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetTab.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.Designer.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\ResetTab.Designer.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.Designer.cs",
+              "RelativeToolTip": "LeagueTool\\Tabs\\ResetTab.Designer.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAkwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:34:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetTab.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\ResetTab.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.cs",
+              "RelativeToolTip": "LeagueTool\\Tabs\\ResetTab.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAqwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:54:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetTab.cs [Design]",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\ResetTab.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\ResetTab.cs [Design]",
+              "RelativeToolTip": "LeagueTool\\Tabs\\ResetTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:54:49.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeTab.cs [Design]",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\HomeTab.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.cs [Design]",
+              "RelativeToolTip": "LeagueTool\\Tabs\\HomeTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:45:15.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeTab.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\HomeTab.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.cs",
+              "RelativeToolTip": "LeagueTool\\Tabs\\HomeTab.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAjwEoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:44:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeTab.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.Designer.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\Tabs\\HomeTab.Designer.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\Tabs\\HomeTab.Designer.cs",
+              "RelativeToolTip": "LeagueTool\\Tabs\\HomeTab.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:44:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\MainForm.Designer.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.Designer.cs",
+              "RelativeToolTip": "LeagueTool\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:39:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\MainForm.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.cs [Design]",
+              "RelativeToolTip": "LeagueTool\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:39:12.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.cs",
+              "RelativeDocumentMoniker": "LeagueTool\\MainForm.cs",
+              "ToolTip": "E:\\Github\\Chill4Share\\LeagueTool\\LeagueTool\\MainForm.cs",
+              "RelativeToolTip": "LeagueTool\\MainForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:34:27.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
